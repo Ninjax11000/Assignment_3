@@ -63,3 +63,7 @@
     background-image: url("images/slider-3.jpg");
     height: 75vh;
 }
+.acc-back-color{
+    background-color: #F3F3F3;
+    border: 0;
+}
