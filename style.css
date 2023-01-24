@@ -1,0 +1,16 @@
+#first-button{
+    background-color: #B68C5A;
+    border-color: #B68C5A;
+}
+.header-img{
+    background-image: url("images/banner.png");
+    height: 75vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+#banner-title{
+    font-family: 'EB Garamond', serif;
+    font-size: 72px;
+    font-weight: 800;
+}
