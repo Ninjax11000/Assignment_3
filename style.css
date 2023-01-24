@@ -24,7 +24,7 @@
     border-top: 0;
     border-left: 0;
 }
-.fs-1, .fs-2{
+.fs-1, .fs-2, .fs-3 {
     font-family: 'EB Garamond', serif;
 }
 .card:hover{
@@ -39,4 +39,19 @@
 .border-class-3{
     border-right: 0;
     border-bottom: 0;
+}
+
+.slider-img-1{
+    background-image: url("images/banner.png");
+    height: 75vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.slider-img-2{
+    background-image: url("images/closeup-gavel-judgement-concept.jpg");
+    height: 75vh;
+}
+.slider-img-3{
+    background-image: url("images/slider-1.jpg");
+    height: 75vh;
 }
