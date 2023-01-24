@@ -67,3 +67,12 @@
     background-color: #F3F3F3;
     border: 0;
 }
+.footer-1{
+    background-image: url("images/Rectangle\ 7.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+ul{
+    list-style: none;
+    padding-left: 0;
+}
