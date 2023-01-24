@@ -24,6 +24,12 @@
     border-top: 0;
     border-left: 0;
 }
+.fs-1, .fs-2{
+    font-family: 'EB Garamond', serif;
+}
+.card:hover{
+    background-color: #E7E7E7;
+}
 .border-class-1{
     border-right: 0;
 }
